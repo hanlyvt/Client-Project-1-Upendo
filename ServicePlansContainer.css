@@ -1,0 +1,7 @@
+.service-plans-container {
+    display: flex;
+    flex-wrap: wrap;
+    /* Laat de componenten op meerdere rijen doorlopen als er teveel zijn */
+    gap: 16px;
+    /* Ruimte tussen de componenten */
+}
